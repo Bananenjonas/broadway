@@ -1,0 +1,23 @@
+/*Whole Text centered*/
+html  {
+  text-align: center;
+}
+
+/*Navigation color, background image and font*/
+#navigation {
+  font-family: helvetica;
+  color: white;
+  background-image: url("resources\images\the-flatiron-building.png");
+}
+
+/*h1 Header font*/
+h1  {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+/*Top Navigation*/
+li  {
+  list-style-type: none;
+  font-size: 18px;
+}
