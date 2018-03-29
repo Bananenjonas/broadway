@@ -4,10 +4,10 @@ html  {
 }
 
 /*Navigation color, background image and font*/
-#navigation {
+#menue {
   font-family: helvetica;
   color: white;
-  background-image: url("resources\images\the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 /*h1 Header font*/
@@ -20,4 +20,8 @@ h1  {
 li  {
   list-style-type: none;
   font-size: 18px;
+}
+
+#divider {
+  background-image: url("../images/the-flatiron-building.png");
 }
